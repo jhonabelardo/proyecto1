@@ -1,7 +1,13 @@
-Hola a todos
+﻿Hola a todos
 Bienvenidos a la especializacion de Desarollo de Dispositivos Moviles
 
 
 
 Hola a todos
-Bienvenidos a la especializacion de Desarollo de Dispositivos Moviles
+Bienvenidos a la especializacion de Desarollo de Dispositivos Móviles
+Durante este curso vamos a aprender cosas nuevas;
+Todo lo necesario para aprender a crear aplicaciones para dispositivos móviles.
+exitos para todos!!!!
+
+
+.........
